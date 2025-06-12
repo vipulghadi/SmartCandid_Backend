@@ -1,0 +1,4 @@
+-r ./base.txt
+argcomplete==3.5.3 # Bash autocompletion for Python scripts.
+django-extensions==3.2.3 # A collection of custom extensions for the Django Framework.
+django-celery-results # Django app that stores the results of Celery tasks in the Django database.

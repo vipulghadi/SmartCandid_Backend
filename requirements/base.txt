@@ -1,0 +1,22 @@
+django==5.0.6 # The web framework for perfectionists with deadlines.
+djangorestframework==3.15.1 # The flexible and powerful toolkit for building Web APIs in Django.
+django-cors-headers==4.3.1 # A Django app that adds CORS (Cross-Origin Resource Sharing) headers to responses.
+djangorestframework-simplejwt==5.3.1 # A JSON Web Token authentication plugin for the Django REST Framework.
+psycopg2-binary #PostgreSQL database adapter for Python.
+pytz # World timezone definitions, modern and historical.
+pillow==11.2.1 #Python Imaging Library (PIL) adds image processing capabilities to your Python interpreter.
+rest_framework_simplejwt # A JSON Web Token authentication plugin for the Django REST Framework.
+celery # Asynchronous task queue/job queue based on distributed message passing.
+# pyotp #OTP generation tool
+google_auth_oauthlib # google auth
+python-dotenv
+django-filter
+django-storages
+boto3 
+python-decouple
+python-dateutil
+pytz
+django-timezone-field
+# channels
+# channels-redis
+# daphne

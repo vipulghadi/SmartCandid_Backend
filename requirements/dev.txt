@@ -1,0 +1,3 @@
+-r ./base.txt
+gunicorn==23.0.0 # WSGI HTTP server for UNIX, used to serve Django applications.
+django-celery-results # Django app that stores the results of Celery tasks in the Django database.
